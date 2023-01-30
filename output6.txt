@@ -1,0 +1,6 @@
+cat
+elephant
+lion
+lizard
+item 0 is cat
+item 3 is lizard
