@@ -1,0 +1,16 @@
+original list
+-----------------------------
+cat
+elephant
+lion
+lizard
+changed list
+-----------------------------
+ant
+elephant
+lion
+alligator
+
+
+Now try to do outside the bounds...
+ERROR! Out of bounds, index 10 is above the length of 4
