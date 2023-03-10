@@ -1,4 +1,11 @@
 # Linked List
-Created a linked list in Python to be tested against different sets of code, ultimately testing the constructs of the linked list. Each test objective was to produce an output that matched the output from its corresponding text file.
+# Objectives<br>
+**1. Create a linked list in Python.**<br>
+> Linked list must be fully functional with no errors.<br>
 
-I encourage you to run the test files on my linkedlist python code and cross reference the results with the output text files.
+**2. Pass each test through the linked list.**<br>
+> Every output should match the expected output from its corresponding text file.
+<br>
+
+*Note*: This is simply a demonstration of elementary Python abilities.<br>
+I encourage you to please run the test files on my linkedlist python code and cross reference the results with their respective output text file.
